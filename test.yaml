@@ -1,0 +1,7 @@
+apiVersion: v1
+metadata:
+  name: test-vault
+  namespace: argocd
+type: Opaque
+Data:
+  password: YWJjZAo=
